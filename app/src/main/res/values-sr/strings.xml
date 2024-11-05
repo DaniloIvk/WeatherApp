@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vremenska prognoza</string>
+    <string name="location_label">Lokacija</string>
+    <string name="default_weather_description">Opis</string>
+    <string name="minimum_temperature_label">Minimum</string>
+    <string name="maximum_temperature_label">Maksimum</string>
+    <string name="feels_like_temperature_label">Subjektivni osećaj</string>
+    <string name="weather_forecast_image_description">Vremenska prognoza</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="location_label">Location</string>
+    <string name="default_location" translatable="false">Niš</string>
+    <string name="default_weather_description">Description</string>
+    <string name="minimum_temperature_label">Minimum</string>
+    <string name="maximum_temperature_label">Maximum</string>
+    <string name="feels_like_temperature_label">Feels like</string>
+    <string name="default_temperature_text" translatable="false">20°C</string>
+    <string name="weather_forecast_image_description">Weather forecast</string>
+</resources>
